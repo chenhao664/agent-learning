@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# 环境变量与密钥
+.env
+.env.*
+*.pem
+
+# 编辑器 / 系统
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
